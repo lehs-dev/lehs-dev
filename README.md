@@ -1,59 +1,78 @@
 <div align="center">
 
-# Xin chào, tôi là Lê Hoàng Sơn 👋
+# Hey there, I'm Lê Hoàng Sơn 👨‍💻
 
+> *"The darker the sky, the brighter the stars."*
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hoangson.le.303584/)
 [![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](tel:0934191038)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hoangson&color=blueviolet&style=flat-square)
 
 </div>
 
 ---
 
-## 🧑‍💻 Về tôi
+## 🧑‍💻 Who Am I?
 
-Tôi là sinh viên ngành **Kỹ thuật Phần mềm & Hệ thống Thông tin**, khoa Công nghệ Thông tin.  
-Tôi có niềm đam mê mạnh mẽ với máy tính, lập trình và không ngừng tìm tòi các công nghệ mới trên thế giới.
+I'm a **Software Engineering & Information Systems** student with a genuine obsession for computers, clean code, and the ever-evolving world of technology.
 
-- 🎯 Phong cách làm việc: **tích cực, rõ ràng và luôn đúng giờ**
-- 🌐 Thường xuyên dạo quanh các trang mạng xã hội để cập nhật xu hướng công nghệ
-- 🚀 Luôn hứng thú với những thứ mới, từ AI cho đến bảo mật hệ thống
+When I'm not deep in a rabbit hole of tech blogs and developer forums, I'm probably experimenting with something new — whether that's a low-level kernel module or a shiny new framework.
+
+- 🎯 I believe in clarity, punctuality, and getting things done **right**
+- 🌍 Always keeping tabs on what's happening across the tech world
+- ⚡ Equally comfortable writing high-level Python scripts and low-level Rust code
+- 🧠 Currently on a mission to understand computers from the **kernel up**
 
 ---
 
-## 🛠️ Kỹ năng & Công nghệ
+## 🛠️ Tech Stack
 
-### Ngôn ngữ lập trình
+### Languages I speak fluently
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks & Ecosystems
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Actix](https://img.shields.io/badge/Actix-000000?style=flat-square&logo=rust&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix_Web-000000?style=flat-square&logo=rust&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 
----
-
-## 📚 Đang học & Khám phá
-
-Hiện tại tôi đang tập trung vào những lĩnh vực sau:
-
-| Lĩnh vực | Trạng thái |
-|----------|-----------|
-| 🤖 AI & Machine Learning | Đang học |
-| 🐧 Linux Kernel (Core) | Đang nghiên cứu |
-| 🔗 Blockchain | Đang tìm hiểu |
-| 🕷️ Data Performance Crawler | Đang tìm hiểu |
-| 🔐 Cyber Security | Đang tìm hiểu |
+> Python is my daily driver. Rust is my guilty pleasure. Bash is my duct tape.
 
 ---
 
-## 📫 Liên hệ với tôi
+## 🚀 Currently Leveling Up
 
-Bạn muốn hợp tác, trao đổi, hoặc chỉ đơn giản là nói chuyện về công nghệ?
+I'm the kind of person who has too many tabs open — both in the browser and in the brain. Here's what's keeping me busy lately:
+
+| Domain | Status |
+|--------|--------|
+| 🤖 AI & Machine Learning | Actively studying |
+| 🐧 Linux Kernel Internals | Going deep |
+| 🔗 Blockchain & Web3 | Exploring |
+| 🕷️ High-Performance Data Crawling | Experimenting |
+| 🔐 Cybersecurity | Learning the dark arts |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sơn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoangson&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangson&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+Got an interesting idea, a project to collaborate on, or just want to geek out about tech?  
+I'm always up for a good conversation.
 
 - 📘 **Facebook:** [Lê Hoàng Sơn](https://www.facebook.com/hoangson.le.303584/)
 - 💬 **Zalo:** 0934 191 038
@@ -62,6 +81,6 @@ Bạn muốn hợp tác, trao đổi, hoặc chỉ đơn giản là nói chuyệ
 
 <div align="center">
 
-*Cảm ơn bạn đã ghé thăm profile của tôi!* ⭐
+*Thanks for stopping by — go build something cool.* 🌟
 
 </div>
