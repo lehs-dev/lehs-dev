@@ -2,7 +2,7 @@
 
 ## 🛠️ My Tech Stack & Skill
 
-**Languages**
+**Favorite Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
