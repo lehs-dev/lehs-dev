@@ -1,17 +1,6 @@
-<div align="center">
+# Hi! Iam Hoangson Le
 
-# Hi! Iam Hoangson LeLe
-
-> *"The darker the sky, the brighter the stars."*
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hoangson.le.303584/)
-[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](tel:0934191038)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack & Skill
 
 **Languages**
 
@@ -75,7 +64,3 @@
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
 ---
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangson&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
