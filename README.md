@@ -1,6 +1,6 @@
 # Hi! I'm Hoangson Le
 
-## 🛠️ My Tech Stack & Skill
+## 🛠️ Tech Stack & Skill I Good at
 
 **Favorite Languages**
 
