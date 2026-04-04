@@ -1,4 +1,4 @@
-# Hi! Iam Hoangson Le
+# Hi! I'm Hoangson Le
 
 ## 🛠️ My Tech Stack & Skill
 
