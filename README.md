@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hoangson.le.303584/)
 [![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](tel:0934191038)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hoangson&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=lehs-dev&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -55,17 +55,6 @@ I'm the kind of person who has too many tabs open — both in the browser and in
 | 🔗 Blockchain & Web3 | Exploring |
 | 🕷️ High-Performance Data Crawling | Experimenting |
 | 🔐 Cybersecurity | Learning the dark arts |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sơn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoangson&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangson&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
