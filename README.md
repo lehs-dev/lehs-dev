@@ -1,4 +1,2 @@
-
-https://github.com/user-attachments/assets/a1a9ef17-c485-41a8-b081-550e29193a6d
 # Hello World!
-Uploading Screencast From 2026-09-30 20-24-16.mp4…
+https://github.com/user-attachments/assets/8fa76f1a-6500-4525-b02b-f112079c4d23
